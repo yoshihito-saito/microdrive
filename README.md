@@ -16,9 +16,9 @@
   * Drive screws: OpenEphys
   * Shuttle tube: FLXBLE FUSED TUBING TSP100170 PRC PER MR (Mouser Electronics)
   * Guide tube: PIT-FS 0.20 x 0.02 (Furukawa) 
-	* 64ch EIB (Open Ephys)
-	* Gold pin small (Neuralynx)
-	* Gold pin large (Neuralynx)
+  * 64ch EIB (Open Ephys)
+  * Gold pin small (Neuralynx)
+  * Gold pin large (Neuralynx)
  
 
  
