@@ -7,7 +7,7 @@
   * Drive body
   * Shuttle
   * Guide
-* You can record from any region you want by just re-design the guide part.
+* You can record from any region by just re-design the guide part.
 
  ### Parts list
   * Drive body: 3D print
