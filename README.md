@@ -1,4 +1,4 @@
-# Microdrive design for multi-site tetrode recording
+# Microdrive for multi-site tetrode recording
 ![image](https://user-images.githubusercontent.com/61833067/185296408-5ef86b72-5ae4-4b2e-bd06-3c34904c7fc1.png)
 
 ### Description
