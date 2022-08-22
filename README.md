@@ -1,6 +1,5 @@
 # Microdrive for multi-site tetrode recording
 ![image](https://user-images.githubusercontent.com/61833067/185296408-5ef86b72-5ae4-4b2e-bd06-3c34904c7fc1.png)
-![image](https://user-images.githubusercontent.com/61833067/185843646-140accab-082b-4a91-8b5f-6bda9c5e081a.png)
 
 ### Description
 * Microdrive for 16 tetrodes.
@@ -53,7 +52,7 @@ The procedure of building this microdrive is almost the same as the shuttledrive
     7. Fix the EIB to the microdrive by glue.  
     8. Paint the drive body with a conductive paint and electrically connect with the GND.
  
-
+![image](https://user-images.githubusercontent.com/61833067/185843646-140accab-082b-4a91-8b5f-6bda9c5e081a.png)
  
 
 
