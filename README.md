@@ -47,7 +47,7 @@ The procedure of building this microdrive is almost the same as the shuttledrive
     4. Fix the tetrode to the shuttle tube by glue.
     5. Cut the end of the tetrodes and align the height of it to the bottom end of the guide tube array.
     6. Rotate the EIB.
-    7. Connect the reference electrode to the reference channel and GND channel of the EIB with large gold pin.
+    7. Connect the reference electrode to the reference channel and GND channel of the EIB with large gold pin or soldering.
     8. Lower the EIB to the top of the microdrive.
     7. Fix the EIB to the microdrive by glue.  
     8. Paint the drive body with a conductive paint and electrically connect with the GND.
