@@ -37,7 +37,7 @@ The procedure of building this microdrive is almost the same as the shuttledrive
 <img src="https://user-images.githubusercontent.com/61833067/185843937-cce0b9fc-2d86-4e85-bba8-733312cfec45.png" width="200px">
 
 #### 3. Shuttle tube insertion
-    1.  Fix the guide part to the drive body by glue.
+    1. Fix the guide part to the drive body by glue.
     2. Cut shuttle tubes into 3 cm long.
     3. Apply silicon oil on the surface of shuttle tubes as lubricant.
     4. Insert shuttle tubes into the guide tubes and hook into the shuttles.
