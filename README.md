@@ -22,6 +22,10 @@ https://gist.github.com/yoshihito-saito/2603be5581b5dd010331ef912d4f67f2
   * 64ch EIB (Open Ephys)
   * Gold pin small (Neuralynx)
   * Gold pin large (Neuralynx)
+
+### 3D printer
+* DMM.make Acrylic Ultra Mode
+* FLASHFORGE LCD oto 8.9s
  
 ### Microdrive construction
 The procedure of building this microdrive is almost the same as the shuttledrive building procedure.
