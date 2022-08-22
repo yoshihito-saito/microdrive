@@ -33,7 +33,7 @@ The procedure of building this microdrive is almost the same as the shuttledrive
     1. Put a shuttle on a lane of the drive body and fix the shuttle to a drive screw (x16).
     2. Check the shuttle motion by rotating the screw.
     3. Fix the drive screws into the pocket on the top of the drive body with a light curing resin.
-    ![image](https://user-images.githubusercontent.com/61833067/185843937-cce0b9fc-2d86-4e85-bba8-733312cfec45.png)
+   ![image](https://user-images.githubusercontent.com/61833067/185843937-cce0b9fc-2d86-4e85-bba8-733312cfec45.png)
 
 #### 3. Shuttle tube insertion
     1. Cut shuttle tubes into 3 cm long.
