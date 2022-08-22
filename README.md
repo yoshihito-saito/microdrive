@@ -8,6 +8,8 @@
   * Shuttle
   * Guide
 * You can record from any region by just re-design the guide part.
+### Guide part design tutorial ↓
+https://gist.github.com/yoshihito-saito/2603be5581b5dd010331ef912d4f67f2
 
  ### Parts list
   * Drive body: 3D print
