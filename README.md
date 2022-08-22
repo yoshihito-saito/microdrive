@@ -1,6 +1,7 @@
 # Microdrive for multi-site tetrode recording
 ![image](https://user-images.githubusercontent.com/61833067/185296408-5ef86b72-5ae4-4b2e-bd06-3c34904c7fc1.png)
-![image](images/Microdrive_pic.png)
+![image](https://user-images.githubusercontent.com/61833067/185843646-140accab-082b-4a91-8b5f-6bda9c5e081a.png)
+
 ### Description
 * Microdrive for 16 tetrodes.
 * This microdrive consists of the following parts.
