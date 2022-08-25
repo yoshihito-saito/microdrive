@@ -21,6 +21,12 @@
   * Gold pin small (Neuralynx)
   * Gold pin large (Neuralynx)
 
+## 3D printer
+### FLASHFORGE Foto8.9s
+
+XY axis resolution: 0.05 mm
+
+
 ## Microdrive construction
 
 #### 1. Guide part construction.
