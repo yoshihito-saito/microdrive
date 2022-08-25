@@ -1,17 +1,15 @@
 # Microdrive for multi-site tetrode recording
 <img src="https://user-images.githubusercontent.com/61833067/185296408-5ef86b72-5ae4-4b2e-bd06-3c34904c7fc1.png" width="400px">
 
-### Description
+## Description
 * Microdrive for 16 tetrodes.
 * This microdrive consists of the following parts.
   * Drive body
   * Shuttle
   * Guide
-* You can record from any region by just re-design the guide part.
-### Guide part design tutorial ↓
-https://gist.github.com/yoshihito-saito/2603be5581b5dd010331ef912d4f67f2
-
- ### Parts list
+* You can record from any region by re-design the guide part.
+  * [Guide part design tutorial](https://gist.github.com/yoshihito-saito/2603be5581b5dd010331ef912d4f67f2)
+ ## Parts list
   * Drive body: 3D print
   * Shuttle: 3D print
   * Guide: 3D print
@@ -23,12 +21,7 @@ https://gist.github.com/yoshihito-saito/2603be5581b5dd010331ef912d4f67f2
   * Gold pin small (Neuralynx)
   * Gold pin large (Neuralynx)
 
-### 3D printer
-* DMM.make Acrylic Ultra Mode
-* FLASHFORGE LCD oto 8.9s
- 
-### Microdrive construction
-The procedure of building this microdrive is almost the same as the shuttledrive building procedure.
+## Microdrive construction
 
 #### 1. Guide part construction.
     1. Bundle the guide tubes into holes of the guide part.
