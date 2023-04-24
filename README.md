@@ -16,7 +16,7 @@
   * Drive holder: 3D print
   * Drive screws: OpenEphys
   * Shuttle tube: FLXBLE FUSED TUBING TSP100170 PRC PER MR (Mouser Electronics)
-  * Guide tube: PIT-FS 0.20 x 0.02 (Furukawa) 
+  * Guide tube: PIT-FS 0.20 x 0.02 (Furukawa)
   * 64ch EIB (Open Ephys)
   * Gold pin small (Neuralynx)
   * Gold pin large (Neuralynx)
@@ -28,10 +28,14 @@
 ## Microdrive construction
 
 #### 1. Guide part construction.
-    1. Bundle the guide tubes into holes of the guide part.
-    2. Align the height of guide tubes.
-    3. Cut the guide tubes about 5 mm from the drive bottom.
-    4. Fix the guide tubes by glue.
+    1. Cut guide tubes into 2 cm long.
+    2. Bundle the guide tubes into holes of the guide part.
+    3. Cut both sides of the guide tubes to adjust the height.
+    4. Move down the guide tubes so they don't pop out into the drive inside.
+    5. Cut the guide tubes about 5 mm from the drive bottom.
+    6. Fix the guide tubes to the guide part by glue.
+    7. Cut the guide tubes to match the height to the brain surface of your coordination.
+    8. Apply a small amount of glue to bind the guide tubes.
     
 #### 2. Drive body construction.
     1. Put a shuttle on a lane of the drive body and fix the shuttle to a drive screw (x16).
