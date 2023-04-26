@@ -67,5 +67,12 @@
 
 <img src="https://user-images.githubusercontent.com/61833067/185843646-140accab-082b-4a91-8b5f-6bda9c5e081a.png" width="600px">
  
-
-
+## reference electrode making
+    1. Cut a coated lead wire into 2 cm lengths (x2).
+    2. Strip the wire coating from both ends (~2 mm).
+    3. Melt solder and apply to both ends.
+    4. Hold a M0.8x2 screw in a vice.
+    5. Apply a small amount of flux to the screw.
+    6. Solder one end of the screw.
+    7. Solder another end to a connector (Preci-Dip, 851-83-050-10-001101).
+    8. Solder one end of the remaining wire to the pin connector.
