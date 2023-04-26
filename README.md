@@ -90,7 +90,7 @@
 - Silicone oil (Sigma, 378429)
 - Dental Cement
 
-#### Procedure
+#### Procedure (Protrocols must be approved by your institution.)
      1. Mark the bregma and lambda.
      2. Level the height of skull.
      3. Mark on your coordinates.
