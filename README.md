@@ -91,18 +91,18 @@
 - Dental Cement
 
 #### Procedure
-    1. Mark the bregma and lambda
-    2. Level the height of skull
-    3. Mark on your coordinates.
-    4. Mark on cerebellum for reference electode → drill the hole by 1/2 drill
-     * Caution. You should check the location of the blood vessels before marking. Applying saline will help you see the location.
-    5. Perform craniotomy and duratomy.
-     * Caution. To stop bleeding and keep the brain surface moist, use collagen sponges and saline or ACSF.
-    6. Measure the difference of the height of the brain surface of each target region.
-    7. Move all tetrode positions to match the height of each brain surface.
-    8. Place reference electode screw on cerebellum.
-    9. Lower the microdrive and attach the tetrode ends to the brain surface and fill the cranial window around the guide arrays with silicone oil.
-    10. Fix the microdrive with dental cement.
-    21. Recover
-    22. Lower one tetrodes per region into the brain each hour (~300 μm).
-     * Caution. Do not lower all the tetrodes at the same time as this will increase the surface area, spread the pressure and make it more difficult to penetrate the brain surface.
+     1. Mark the bregma and lambda
+     2. Level the height of skull
+     3. Mark on your coordinates.
+     4. Mark on cerebellum for reference electode → drill the hole by 1/2 drill
+      * Caution. You should check the location of the blood vessels before marking. Applying saline will help you see the location.
+     5. Perform craniotomy and duratomy.
+      * Caution. To stop bleeding and keep the brain surface moist, use collagen sponges and saline or ACSF.
+     6. Measure the difference of the height of the brain surface of each target region.
+     7. Move all tetrode positions to match the height of each brain surface.
+     8. Place reference electode screw on cerebellum.
+     9. Lower the microdrive and attach the tetrode ends to the brain surface and fill the cranial window around the guide arrays with silicone oil.
+     10. Fix the microdrive with dental cement.
+     21. Recover
+     22. Lower one tetrodes per region into the brain each hour (~300 μm).
+      * Caution. Do not lower all the tetrodes at the same time as this will increase the surface area, spread the pressure and make it more difficult to penetrate the brain surface.
