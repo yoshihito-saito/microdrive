@@ -91,10 +91,10 @@
 - Dental Cement
 
 #### Procedure
-     1. Mark the bregma and lambda
-     2. Level the height of skull
+     1. Mark the bregma and lambda.
+     2. Level the height of skull.
      3. Mark on your coordinates.
-     4. Mark on cerebellum for reference electode → drill the hole by 1/2 drill
+     4. Mark on cerebellum for reference electode. → drill the hole by 1/2 drill.
       * Caution. You should check the location of the blood vessels before marking. Applying saline will help you see the location.
      5. Perform craniotomy and duratomy.
       * Caution. To stop bleeding and keep the brain surface moist, use collagen sponges and saline or ACSF.
