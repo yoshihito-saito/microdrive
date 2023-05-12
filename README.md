@@ -108,6 +108,7 @@
       * Caution. Do not lower all the tetrodes at the same time as this will increase the surface area, spread the pressure and make it more difficult to penetrate the brain surface.
 
 ### License
+The design of this microdrive was inspired by "[Shuttledrive](https://github.com/open-ephys/shuttle-drive)" by akob Voigts and Jonathan P. Newman.
 The designs are desitributed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/).
 
 Copyright Yoshihito Saito 2023.
