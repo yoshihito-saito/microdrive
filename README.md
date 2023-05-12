@@ -106,3 +106,9 @@
      21. Recover
      22. Lower one tetrodes per region into the brain each hour (~300 μm).
       * Caution. Do not lower all the tetrodes at the same time as this will increase the surface area, spread the pressure and make it more difficult to penetrate the brain surface.
+
+### License
+The designs are desitributed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/).
+
+Copyright Yoshihito Saito 2023.
+
