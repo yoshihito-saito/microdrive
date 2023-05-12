@@ -110,7 +110,7 @@
 ### License
 The design of this microdrive was inspired by "[Shuttledrive](https://github.com/open-ephys/shuttle-drive)" by Jakob Voigts and Jonathan P. Newman.
 
-The designs are desitributed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)(CC BY-NC-SA).
+The designs are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License].(https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)(CC BY-NC-SA).
 
 Copyright Yoshihito Saito 2023.
 
