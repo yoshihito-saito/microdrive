@@ -99,7 +99,7 @@
      3. Mark on your coordinates.
      4. Mark on cerebellum for the reference electrode. → Drill the hole by 1/2 drill.
       * Caution. You should check the location of the blood vessels before marking. Applying saline will help you see the location.
-     5. Perform craniotomy with 0.2 mm drill and duratomy.
+     5. Perform craniotomy and duratomy.
       * Caution. To stop bleeding and keep the brain surface moist, use collagen sponges and saline or ACSF.
      6. Measure the difference of the height of the brain surface of each target region.
      7. Move all tetrode positions to match the height of each brain surface.
