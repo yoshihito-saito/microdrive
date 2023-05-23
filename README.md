@@ -95,7 +95,7 @@
 
 #### Procedure (Protrocols must be approved by your institution.)
      1. Mark the bregma and lambda.
-     2. Level the height of the skull.
+     2. Align bregma and lambda horizontally.
      3. Mark on your coordinates.
      4. Mark on cerebellum for the reference electrode. → Drill the hole by 1/2 drill.
       * Caution. You should check the location of the blood vessels before marking. Applying saline will help you see the location.
